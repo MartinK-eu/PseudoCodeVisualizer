@@ -1,0 +1,10 @@
+D:\School\Prog1\ProgrammingPseudoCodes\ProgrammingPseudoCodes\bin\Debug\ProgrammingPseudoCodes.exe.config
+D:\School\Prog1\ProgrammingPseudoCodes\ProgrammingPseudoCodes\bin\Debug\ProgrammingPseudoCodes.exe
+D:\School\Prog1\ProgrammingPseudoCodes\ProgrammingPseudoCodes\bin\Debug\ProgrammingPseudoCodes.pdb
+D:\School\Prog1\ProgrammingPseudoCodes\ProgrammingPseudoCodes\obj\Debug\ProgrammingPseudoCodes.csprojAssemblyReference.cache
+D:\School\Prog1\ProgrammingPseudoCodes\ProgrammingPseudoCodes\obj\Debug\ProgrammingPseudoCodes.Form_main.resources
+D:\School\Prog1\ProgrammingPseudoCodes\ProgrammingPseudoCodes\obj\Debug\ProgrammingPseudoCodes.Properties.Resources.resources
+D:\School\Prog1\ProgrammingPseudoCodes\ProgrammingPseudoCodes\obj\Debug\ProgrammingPseudoCodes.csproj.GenerateResource.cache
+D:\School\Prog1\ProgrammingPseudoCodes\ProgrammingPseudoCodes\obj\Debug\ProgrammingPseudoCodes.csproj.CoreCompileInputs.cache
+D:\School\Prog1\ProgrammingPseudoCodes\ProgrammingPseudoCodes\obj\Debug\ProgrammingPseudoCodes.exe
+D:\School\Prog1\ProgrammingPseudoCodes\ProgrammingPseudoCodes\obj\Debug\ProgrammingPseudoCodes.pdb

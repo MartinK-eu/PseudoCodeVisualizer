@@ -1,0 +1,98 @@
+1 - Egyszerű prog tételek
+Sorozatszámítás
+Eldöntés
+Módosított Eldöntés
+Növekvő rendezettség vizsgálata
+Kiválasztás
+Lineáris keresés
+Megszámlálás
+Maximumkiválasztás
+
+2 - Összetett prog tételek I.
+Másolás
+Kiválogatás
+Kiválaogatás az eredeti tömbben
+Kiválogatás eredeti tömb, eredeti elemek megtartása
+Szétválogatás
+Szétválogatás egy új tömbbe
+Szétválogatás eredeti tömbben
+
+3 - Összetett prog tételek II.
+Metszet
+Közöm elem létezése
+Unió (tömb)
+Ismétlődések kiszűrése
+Összefuttatás
+Módosított összefuttatás
+
+4 - Prog tételek összeépítése
+Másolás és maximumkiválasztás
+Megszámlálás és keresés
+Maximumkiválasztás és Kiválogatás
+Kiválogatás és maximumkiválasztás
+
+5 - Rendezések
+Minimumkiválasztásos rendezés
+Buborékrendezés
+Javított buborékrendezés
+Beillesztéses rendezés
+Javított beillesztéses rendezés
+
+6 - Rendezett tömbök
+Lineáris keresés rendezett tömbben
+Logaritmikus keresés
+Eldöntés rendezett tömbben
+Módosított eldöntés rendezett tömbben (intervallum)
+Kiválasztás rendezett tömbben
+Kiválogatás rendezett tömbben
+Megszámlálás rendezett tömbben
+
+7 - Halmazok I.
+Halmaztulajdonség vizsgálata
+Tartalmazás vizsgálata
+Részhalmaz vizsgálata
+
+8 - Halamzok II.
+HalmazUnió
+HalmazMetszet
+HalmazKülönbség
+Halmazok Szimmetrikus Differenciája
+
+9 - Rekurzió I.
+Faktoriális számítás iteratívan
+Faktoriális számítás rekurzívan
+Fibonacci sorozat iteratívan
+Fibonacci sorozat rekurzívan
+Hatványozás iteratívan
+Hatványozás rekurzívan
+Hatványozás fleezéses elv
+
+10 - Rekurzió II.
+Sorozatszámítás rekurzívan
+Megszámlálás rekurzívan
+Maximumkiválasztás rekurzívan
+
+11 - Rekurzió III.
+Lineáris keresés rekurzívan
+Logaritmikus keresés rekurzívan
+
+12 - Oszd meg és uralkodj I.
+Maximumkiválasztás OMU
+Összefésülő rendezés + Összefésülés
+
+13 - Oszd meg és uralkodj II.
+Gyorsrendezés + szétválogatás
+K-adik legkisebb elem
+
+14 - Dinamikus programozás I.
+Hátizsák probléma (külső link)
+
+15 - Dinamikus programozás II.
+Kincsek begyűjtése + Kiolvasás
+Leghosszabb közös részsorozat (külső link)
+
+16 - Mohó algoritmusok
+Pénzkifizetés
+0 - 1 Hátizsák mohón
+Kincsbegyűjtés mohón
+
