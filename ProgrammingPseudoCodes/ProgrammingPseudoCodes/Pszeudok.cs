@@ -50,9 +50,52 @@ namespace ProgrammingPseudoCodes
             listBox_main.Items.Add("\nVégeredmény: " + ertek);
         }
 
-        public static void Eldontes1(ListBox listBox_main, TextBox textboxIn)
+        public static void Eldontes1(ListBox listBox_main, TextBox textboxIn, int rB_index)
         {
-            listBox_main.Items.Add("test");
+            int[] tomb = TombGeneralas(textboxIn);
+            int i = 0;
+            if (rB_index == 0) //páros keresése
+            {
+                while ((i <= (tomb.Length - 1)) && !(tomb[i] % 2 == 0))
+                {
+                    listBox_main.Items.Add($"{i + 1}. lefutás, a {tomb[i]} % 2 != 0, tehát a szám ({tomb[i]}) páratlan.");
+                    i++;
+                }
+                bool found = i <= (tomb.Length - 1);
+                switch (found)
+                {
+                    case true:
+                        listBox_main.Items.Add($"{i + 1}. lefutás, {tomb[i]} % 2 == 0, tehát páros.");
+                        listBox_main.Items.Add($"Van páros szám, az első ilyen a {tomb[i]}");
+                        break;
+                    case false:
+                        listBox_main.Items.Add($"A ciklus lefutott {i} alkalommal. Nincs páros szám.");
+                        break;
+                    default:
+                        break;
+                }
+            }
+            else // páratlan keresése
+            {
+                while ((i <= (tomb.Length - 1)) && !(tomb[i] % 2 == 1))
+                {
+                    listBox_main.Items.Add($"{i + 1}. lefutás, a {tomb[i]} % 2 != 1, tehát a szám ({tomb[i]}) páros.");
+                    i++;
+                }
+                bool found = i <= (tomb.Length - 1);
+                switch (found)
+                {
+                    case true:
+                        listBox_main.Items.Add($"{i + 1}. lefutás, {tomb[i]} % 2 == 0, tehát páratlan.");
+                        listBox_main.Items.Add($"Van páratlan szám, az első ilyen a {tomb[i]}");
+                        break;
+                    case false:
+                        listBox_main.Items.Add($"A ciklus lefutott {i} alkalommal. Nincs páratlan szám.");
+                        break;
+                    default:
+                        break;
+                }
+            }
         }
 
         public static void Modositott_eldontes2(ListBox listBox_main, TextBox textboxIn)

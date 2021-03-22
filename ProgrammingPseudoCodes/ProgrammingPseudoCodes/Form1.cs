@@ -35,6 +35,9 @@ namespace ProgrammingPseudoCodes
                 case 0:
                     Pszeudok.Sorozatszamitas0(listBox_main, textBox_sorozatszamitas, RadioButtonSelectedIndex(radioButton_osszeadas, radioButton_szorzas));
                     break;
+                case 1:
+                    Pszeudok.Eldontes1(listBox_main, textBox_eldontes, RadioButtonSelectedIndex(radioButton_eldontes0, radioButton_eldontes1));
+                    break;
                 default:
                     break;
             }
